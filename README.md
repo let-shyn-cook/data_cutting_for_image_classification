@@ -1,0 +1,1 @@
+# data_cutting_for_image_classification
